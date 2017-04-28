@@ -6,4 +6,4 @@ Description coming.
 - Zachary McNellis
 
 ## Notes
-...
+View at https://zachgameoflife.herokuapp.com/
